@@ -1,0 +1,29 @@
+h1{
+    color: bold;
+    text-align: center;
+}
+p{
+    font-size: 18px;
+    line-height: 1.6;
+}
+span{
+    color: red;
+    font-weight: bold;
+}
+.box{
+    height: 200px;
+    width: 300px;
+    background-color: lightgray;
+    border: 3px solid black;
+    padding: 20px;
+    margin: 30px;
+}
+.p1{
+    color: green;
+}
+#p2{
+    color: red;
+}
+.selector{
+    background-color:blanchedalmond;
+}
